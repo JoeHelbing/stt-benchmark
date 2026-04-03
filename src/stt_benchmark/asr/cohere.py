@@ -17,15 +17,14 @@ class CohereASR:
     def load(self):
         if self.model is not None:
             return
-        from transformers import AutoModelForSpeechSeq2Seq, AutoProcessor
+        from transformers import AutoProcessor, CohereAsrForConditionalGeneration
 
         t0 = time.perf_counter()
-        self.processor = AutoProcessor.from_pretrained(MODEL_ID, trust_remote_code=True)
-        self.model = AutoModelForSpeechSeq2Seq.from_pretrained(
+        self.processor = AutoProcessor.from_pretrained(MODEL_ID)
+        self.model = CohereAsrForConditionalGeneration.from_pretrained(
             MODEL_ID,
-            trust_remote_code=True,
-        ).to("cuda")
-        self.model.eval()
+            device_map="auto",
+        )
         self._load_time = time.perf_counter() - t0
 
     def transcribe(
@@ -36,15 +35,24 @@ class CohereASR:
     ) -> dict:
         self.load()
         t0 = time.perf_counter()
-        texts = self.model.transcribe(
-            processor=self.processor,
-            audio_arrays=[audio],
-            sample_rates=[sample_rate],
+        inputs = self.processor(
+            audio,
+            sampling_rate=sample_rate,
+            return_tensors="pt",
             language=language,
         )
+        inputs = inputs.to(self.model.device, dtype=self.model.dtype)
+
+        outputs = self.model.generate(**inputs, max_new_tokens=256)
+        text = self.processor.decode(outputs, skip_special_tokens=True)
         elapsed = time.perf_counter() - t0
+
+        # decode returns a list of strings
+        if isinstance(text, list):
+            text = text[0]
+
         return {
-            "text": texts[0].strip().lower(),
+            "text": text.strip().lower(),
             "time_s": elapsed,
             "model": "cohere-transcribe",
             "load_time_s": self._load_time,

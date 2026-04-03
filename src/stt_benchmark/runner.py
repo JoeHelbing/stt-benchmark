@@ -43,17 +43,22 @@ def run_asr_benchmark(
         print(f"{'='*60}")
 
         results = []
-        with track_vram() as vram:
-            for i, sample in enumerate(samples):
-                print(f"  [{i+1}/{len(samples)}] {sample['id']} ({sample['duration']:.1f}s)")
-                result = model.transcribe(sample["audio"], sample["sample_rate"])
-                result["sample_id"] = sample["id"]
-                result["duration_s"] = sample["duration"]
-                result["rtfx"] = sample["duration"] / result["time_s"] if result["time_s"] > 0 else 0
-                if sample["text"]:
-                    result["wer"] = wer(sample["text"], result["text"])
-                    result["reference"] = sample["text"]
-                results.append(result)
+        try:
+            with track_vram() as vram:
+                for i, sample in enumerate(samples):
+                    print(f"  [{i+1}/{len(samples)}] {sample['id']} ({sample['duration']:.1f}s)")
+                    result = model.transcribe(sample["audio"], sample["sample_rate"])
+                    result["sample_id"] = sample["id"]
+                    result["duration_s"] = sample["duration"]
+                    result["rtfx"] = sample["duration"] / result["time_s"] if result["time_s"] > 0 else 0
+                    if sample["text"]:
+                        result["wer"] = wer(sample["text"], result["text"])
+                        result["reference"] = sample["text"]
+                    results.append(result)
+        except Exception as e:
+            print(f"  ERROR: {model_name} failed: {e}")
+            model.unload()
+            continue
 
         all_results["asr"][model_name] = {
             "results": results,
