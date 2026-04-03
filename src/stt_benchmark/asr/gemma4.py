@@ -33,17 +33,13 @@ class Gemma4ASR:
     def load(self):
         if self.model is not None:
             return
-        from transformers import AutoProcessor, AutoModelForMultimodalLM, BitsAndBytesConfig
+        from transformers import AutoProcessor, AutoModelForMultimodalLM
 
         t0 = time.perf_counter()
-        bnb_config = BitsAndBytesConfig(
-            load_in_4bit=True,
-            bnb_4bit_compute_dtype=torch.bfloat16,
-        )
         self.processor = AutoProcessor.from_pretrained(self.model_id)
         self.model = AutoModelForMultimodalLM.from_pretrained(
             self.model_id,
-            quantization_config=bnb_config,
+            torch_dtype=torch.bfloat16,
             device_map="auto",
         )
         self._load_time = time.perf_counter() - t0
