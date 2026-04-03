@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Data (too large for git)
+data/audio/
+data/cache/
+
+# Env
+.env
+*.egg-info/
