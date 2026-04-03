@@ -1,7 +1,7 @@
 [project]
 name = "stt-benchmark"
 version = "0.1.0"
-description = "Add your description here"
+description = "Benchmark: Cohere Transcribe vs Gemma 4 for speech-to-text"
 readme = "README.md"
 authors = [
     { name = "Joe Helbing", email = "joehelbing@gmail.com" }
