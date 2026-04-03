@@ -1,0 +1,1578 @@
+{
+  "metadata": {
+    "timestamp": "2026-04-03T00:10:03.482720",
+    "n_samples": 50,
+    "dataset": "librispeech-test-clean"
+  },
+  "asr": {
+    "Cohere Transcribe 2B": {
+      "results": [
+        {
+          "text": "they were absorbed in his theology and were under the dominion of his name while that which was truly great and truly characteristic in him, his effort to realise and connect abstractions, was not understood by them at all.",
+          "time_s": 0.88627455898677,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "2961-960-0003",
+          "duration_s": 17.315,
+          "rtfx": 19.536835199010234,
+          "wer": 0.10256410256410256,
+          "reference": "they were absorbed in his theology and were under the dominion of his name while that which was truly great and truly characteristic in him his effort to realize and connect abstractions was not understood by them at all"
+        },
+        {
+          "text": "when this had been accomplished the boolooroo leaned over to try to discover why the frame rolled away seemingly of its own accord and he was the more puzzled because it had never done such a thing before",
+          "time_s": 0.34193695700378157,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "8555-284447-0017",
+          "duration_s": 11.62,
+          "rtfx": 33.98287246228108,
+          "wer": 0.0,
+          "reference": "when this had been accomplished the boolooroo leaned over to try to discover why the frame rolled away seemingly of its own accord and he was the more puzzled because it had never done such a thing before"
+        },
+        {
+          "text": "why, if we erect a station at the falls, it is a great economy to get it up to the city.",
+          "time_s": 0.22046319099899847,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "2300-131720-0005",
+          "duration_s": 6.9,
+          "rtfx": 31.29774167167591,
+          "wer": 0.14285714285714285,
+          "reference": "why if we erect a station at the falls it is a great economy to get it up to the city"
+        },
+        {
+          "text": "i wish you good night. she laid her bony hands on the back of mister meadowcroft's invalid chair, cut him short in his farewell salutation to me, and wheeled him out to his bed as if she were wheeling him out to his grave.",
+          "time_s": 0.4186736060073599,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "5142-36377-0022",
+          "duration_s": 11.245,
+          "rtfx": 26.858631255112655,
+          "wer": 0.09090909090909091,
+          "reference": "i wish you good night she laid her bony hands on the back of mister meadowcroft's invalid chair cut him short in his farewell salutation to me and wheeled him out to his bed as if she were wheeling him out to his grave"
+        },
+        {
+          "text": "then said sir ferdinando there is nothing for it but that we must take you with him.",
+          "time_s": 0.1966868970048381,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "8455-210777-0040",
+          "duration_s": 6.195,
+          "rtfx": 31.496760050302772,
+          "wer": 0.11764705882352941,
+          "reference": "then said sir ferdinando there is nothing for it but that he must take you with him"
+        },
+        {
+          "text": "all the furniture belonged to other times.",
+          "time_s": 0.15651563499704935,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "5683-32866-0023",
+          "duration_s": 2.745,
+          "rtfx": 17.538183965146672,
+          "wer": 0.14285714285714285,
+          "reference": "all the furniture belonged to other times"
+        },
+        {
+          "text": "to night there was no need of extra heat and there were great ceremonies to be observed in lighting the fires on the hearthstones",
+          "time_s": 0.25078085499990266,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "4992-41806-0001",
+          "duration_s": 8.31,
+          "rtfx": 33.13650079071318,
+          "wer": 0.0,
+          "reference": "to night there was no need of extra heat and there were great ceremonies to be observed in lighting the fires on the hearthstones"
+        },
+        {
+          "text": "he had broken into her courtyard.",
+          "time_s": 0.1286258309992263,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "8555-292519-0015",
+          "duration_s": 2.85,
+          "rtfx": 22.15729125215248,
+          "wer": 0.16666666666666666,
+          "reference": "he had broken into her courtyard"
+        },
+        {
+          "text": "it was written in latin.",
+          "time_s": 0.11530452099395916,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "2830-3979-0004",
+          "duration_s": 1.945,
+          "rtfx": 16.86837587315331,
+          "wer": 0.2,
+          "reference": "it was written in latin"
+        },
+        {
+          "text": "simply by stopping her carriage two or three times before the shop to have her snuff box filled and by saying aloud to the young girl who handed back the box that her snuff was the very best in paris.",
+          "time_s": 0.34617469800286926,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "3729-6852-0032",
+          "duration_s": 13.64,
+          "rtfx": 39.402070915901966,
+          "wer": 0.025,
+          "reference": "simply by stopping her carriage two or three times before the shop to have her snuff box filled and by saying aloud to the young girl who handed back the box that her snuff was the very best in paris"
+        },
+        {
+          "text": "far from it, sire. your majesty having given no directions about it, the musicians have retained it.",
+          "time_s": 0.22757411700149532,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "7127-75946-0020",
+          "duration_s": 6.52,
+          "rtfx": 28.650006801771568,
+          "wer": 0.23529411764705882,
+          "reference": "far from it sire your majesty having given no directions about it the musicians have retained it"
+        },
+        {
+          "text": "she saves her hand too. she's at her best in the second act.",
+          "time_s": 0.17959957198763732,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "4446-2271-0005",
+          "duration_s": 3.395,
+          "rtfx": 18.903163089017237,
+          "wer": 0.15384615384615385,
+          "reference": "she saves her hand too she's at her best in the second act"
+        },
+        {
+          "text": "when do you intend that the john bright shall start?",
+          "time_s": 0.15211024199379608,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "8455-210777-0062",
+          "duration_s": 3.05,
+          "rtfx": 20.05124678011094,
+          "wer": 0.1,
+          "reference": "when do you intend that the john bright shall start"
+        },
+        {
+          "text": "as he flew, his down reaching clutching talons were not half a yard above the fugitive's head.",
+          "time_s": 0.23706980000133626,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "7176-88083-0019",
+          "duration_s": 5.81,
+          "rtfx": 24.507550096921882,
+          "wer": 0.11764705882352941,
+          "reference": "as he flew his down reaching clutching talons were not half a yard above the fugitive's head"
+        },
+        {
+          "text": "a house smells of smoke, a ship smells of frolic.",
+          "time_s": 0.16426183799922,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "5142-33396-0020",
+          "duration_s": 3.315,
+          "rtfx": 20.181193881537727,
+          "wer": 0.2,
+          "reference": "a house smells of smoke a ship smells of frolic"
+        },
+        {
+          "text": "only that one answered the tree.",
+          "time_s": 0.141146210997249,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "672-122797-0059",
+          "duration_s": 3.52,
+          "rtfx": 24.938678659029723,
+          "wer": 0.16666666666666666,
+          "reference": "only that one answered the tree"
+        },
+        {
+          "text": "my men pounded the table with their fists.",
+          "time_s": 0.1429836930037709,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "5142-33396-0047",
+          "duration_s": 2.535,
+          "rtfx": 17.729294486282047,
+          "wer": 0.125,
+          "reference": "my men pounded the table with their fists"
+        },
+        {
+          "text": "before starting it was indispensable that the engine of the dobryna should be repaired to sail under canvas only would in contrary winds and rough seas be both tedious and difficult.",
+          "time_s": 0.33255766399088316,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "5105-28240-0021",
+          "duration_s": 12.455,
+          "rtfx": 37.45215145708218,
+          "wer": 0.03225806451612903,
+          "reference": "before starting it was indispensable that the engine of the dobryna should be repaired to sail under canvas only would in contrary winds and rough seas be both tedious and difficult"
+        },
+        {
+          "text": "i pass away, yet i complain, and no one hears my voice.",
+          "time_s": 0.17242334599723108,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "908-157963-0016",
+          "duration_s": 5.105,
+          "rtfx": 29.607359551426295,
+          "wer": 0.25,
+          "reference": "i pass away yet i complain and no one hears my voice"
+        },
+        {
+          "text": "if i can get patience.",
+          "time_s": 0.12164692798978649,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "4970-29095-0015",
+          "duration_s": 2.36,
+          "rtfx": 19.400407712705626,
+          "wer": 0.2,
+          "reference": "if i can get patients"
+        },
+        {
+          "text": "good gracious, has the king any right to interfere in matters of that kind?",
+          "time_s": 0.18533768100314774,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "7127-75947-0035",
+          "duration_s": 4.415,
+          "rtfx": 23.821383628540257,
+          "wer": 0.14285714285714285,
+          "reference": "good gracious has the king any right to interfere in matters of that kind"
+        },
+        {
+          "text": "i will briefly describe them to you, and you shall read the account of them at your leisure in the sacred registers.",
+          "time_s": 0.23802018200512975,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "2961-961-0016",
+          "duration_s": 7.815,
+          "rtfx": 32.833350240155575,
+          "wer": 0.09090909090909091,
+          "reference": "i will briefly describe them to you and you shall read the account of them at your leisure in the sacred registers"
+        },
+        {
+          "text": "yes, the character which your royal highness assumed is in perfect harmony with your own.",
+          "time_s": 0.19527616999403108,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "7127-75947-0003",
+          "duration_s": 5.98,
+          "rtfx": 30.62329622801793,
+          "wer": 0.13333333333333333,
+          "reference": "yes the character which your royal highness assumed is in perfect harmony with your own"
+        },
+        {
+          "text": "i say you do know what this means and you must tell us.",
+          "time_s": 0.15921748700202443,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "6930-81414-0020",
+          "duration_s": 5.0,
+          "rtfx": 31.40358571251929,
+          "wer": 0.07692307692307693,
+          "reference": "i say you do know what this means and you must tell us"
+        },
+        {
+          "text": "and fearest thou because i vanish and am seen no more?",
+          "time_s": 0.1527601000125287,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "908-157963-0018",
+          "duration_s": 4.255,
+          "rtfx": 27.854132064924176,
+          "wer": 0.09090909090909091,
+          "reference": "and fearest thou because i vanish and am seen no more"
+        },
+        {
+          "text": "i almost think i can remember feeling a little different.",
+          "time_s": 0.13238109600206371,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "260-123440-0007",
+          "duration_s": 3.385,
+          "rtfx": 25.570116143676817,
+          "wer": 0.1,
+          "reference": "i almost think i can remember feeling a little different"
+        },
+        {
+          "text": "well then, last, here is turner's greek school of the highest class, and you define his art absolutely as first the displaying intensely and with the sternest intellect of natural form as it is, and then the envelopment of it with cloud and fire.",
+          "time_s": 0.4152056950115366,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "1188-133604-0028",
+          "duration_s": 19.005,
+          "rtfx": 45.77249355761351,
+          "wer": 0.11363636363636363,
+          "reference": "well then last here is turner's greek school of the highest class and you define his art absolutely as first the displaying intensely and with the sternest intellect of natural form as it is and then the envelopment of it with cloud and fire"
+        },
+        {
+          "text": "in this case, as in most others, what may be taken as certain in advance is rather vague.",
+          "time_s": 0.20613238999794703,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "8230-279154-0023",
+          "duration_s": 6.265,
+          "rtfx": 30.39308863620315,
+          "wer": 0.16666666666666666,
+          "reference": "in this case as in most others what may be taken as certain in advance is rather vague"
+        },
+        {
+          "text": "first as a paris stockbroker, later as a celebrated author and yachtsman, he went on frequent voyages to britain, america, the mediterranean.",
+          "time_s": 0.3128846190084005,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "8463-294825-0002",
+          "duration_s": 10.56,
+          "rtfx": 33.750460580219446,
+          "wer": 0.22727272727272727,
+          "reference": "first as a paris stockbroker later as a celebrated author and yachtsman he went on frequent voyages to britain america the mediterranean"
+        },
+        {
+          "text": "i discovered and put out a fire that would have destroyed the whole plant, but martial never even thanked me.",
+          "time_s": 0.20846112800063565,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "6829-68769-0032",
+          "duration_s": 5.72,
+          "rtfx": 27.43916841888411,
+          "wer": 0.15,
+          "reference": "i discovered and put out a fire that would have destroyed the whole plant but marshall never even thanked me"
+        },
+        {
+          "text": "i cannot deny myself the gratification of inserting southey's reply.",
+          "time_s": 0.1882846549997339,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "3575-170457-0027",
+          "duration_s": 4.58,
+          "rtfx": 24.32487129663579,
+          "wer": 0.1,
+          "reference": "i cannot deny myself the gratification of inserting southey's reply"
+        },
+        {
+          "text": "the use of the word waste as a technical term therefore implies no deprecation of the motives or of the ends sought by the consumer under this canon of conspicuous waste.",
+          "time_s": 0.3174359539989382,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "3570-5696-0007",
+          "duration_s": 9.5,
+          "rtfx": 29.92729676749779,
+          "wer": 0.03225806451612903,
+          "reference": "the use of the word waste as a technical term therefore implies no deprecation of the motives or of the ends sought by the consumer under this canon of conspicuous waste"
+        },
+        {
+          "text": "then the leader parted from the line",
+          "time_s": 0.12488051599939354,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "7176-88083-0027",
+          "duration_s": 2.13,
+          "rtfx": 17.056303643158746,
+          "wer": 0.0,
+          "reference": "then the leader parted from the line"
+        },
+        {
+          "text": "on the mast already i see the light play of a lament saint elwell's fire the outstretched sail catches not a breath of wind and hangs like a sheet of lead.",
+          "time_s": 0.34659237301093526,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "260-123288-0010",
+          "duration_s": 9.995,
+          "rtfx": 28.837910982203436,
+          "wer": 0.0967741935483871,
+          "reference": "on the mast already i see the light play of a lambent saint elmo's fire the outstretched sail catches not a breath of wind and hangs like a sheet of lead"
+        },
+        {
+          "text": "it takes me several years to make this magic powder, but at this moment i am pleased to say it is nearly done. you see, i am making it for my good wife margolotte, who wants to use some of it for a purpose of her own.",
+          "time_s": 0.4373031790019013,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "1284-1180-0018",
+          "duration_s": 12.005,
+          "rtfx": 27.45235016905241,
+          "wer": 0.10638297872340426,
+          "reference": "it takes me several years to make this magic powder but at this moment i am pleased to say it is nearly done you see i am making it for my good wife margolotte who wants to use some of it for a purpose of her own"
+        },
+        {
+          "text": "it is hardly necessary to say more of them here.",
+          "time_s": 0.1420647619961528,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "8463-287645-0001",
+          "duration_s": 3.545,
+          "rtfx": 24.953408221639087,
+          "wer": 0.1,
+          "reference": "it is hardly necessary to say more of them here"
+        },
+        {
+          "text": "not at all you are on the contrary most agreeable to me",
+          "time_s": 0.1696799130004365,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "7127-75946-0009",
+          "duration_s": 4.72,
+          "rtfx": 27.81708168360422,
+          "wer": 0.0,
+          "reference": "not at all you are on the contrary most agreeable to me"
+        },
+        {
+          "text": "while the former foretold that the scottish covenanters were secretly forming a union with the english parliament, and inculcated the necessity of preventing them by some vigorous undertaking, the latter still insisted that every such attempt would precipitate them into measures to which otherwise they were not perhaps inclined.",
+          "time_s": 0.5005957469984423,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "8224-274381-0002",
+          "duration_s": 24.54,
+          "rtfx": 49.02159106852412,
+          "wer": 0.061224489795918366,
+          "reference": "while the former foretold that the scottish covenanters were secretly forming a union with the english parliament and inculcated the necessity of preventing them by some vigorous undertaking the latter still insisted that every such attempt would precipitate them into measures to which otherwise they were not perhaps inclined"
+        },
+        {
+          "text": "he was such a big boy that he wore high boots and carried a jack knife.",
+          "time_s": 0.1874505460000364,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "7021-85628-0002",
+          "duration_s": 6.455,
+          "rtfx": 34.43574925622647,
+          "wer": 0.0625,
+          "reference": "he was such a big boy that he wore high boots and carried a jack knife"
+        },
+        {
+          "text": "the fairview band was engaged to discourse as much harmony as it could produce and the resources of the great house were taxed to entertain the guests.",
+          "time_s": 0.26755711498844903,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "6829-68771-0010",
+          "duration_s": 9.82,
+          "rtfx": 36.702443889126066,
+          "wer": 0.037037037037037035,
+          "reference": "the fairview band was engaged to discourse as much harmony as it could produce and the resources of the great house were taxed to entertain the guests"
+        },
+        {
+          "text": "although the brethren with me are not apostles like myself, yet they are all of one mind with me, think, write, and teach as i do.",
+          "time_s": 0.2654564609983936,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "2830-3980-0029",
+          "duration_s": 9.075,
+          "rtfx": 34.18639714350338,
+          "wer": 0.19230769230769232,
+          "reference": "although the brethren with me are not apostles like myself yet they are all of one mind with me think write and teach as i do"
+        },
+        {
+          "text": "when i addressed him, he answered constrainedly.",
+          "time_s": 0.14918942700023763,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "5142-36377-0019",
+          "duration_s": 2.415,
+          "rtfx": 16.187474196788447,
+          "wer": 0.2857142857142857,
+          "reference": "when i addressed him he answered constrainedly"
+        },
+        {
+          "text": "the music came nearer and he recalled the words the words of shelley's fragment upon the moon wandering companionless pale for weariness",
+          "time_s": 0.2556094530009432,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "1089-134686-0005",
+          "duration_s": 9.635,
+          "rtfx": 37.694224086323004,
+          "wer": 0.0,
+          "reference": "the music came nearer and he recalled the words the words of shelley's fragment upon the moon wandering companionless pale for weariness"
+        },
+        {
+          "text": "now what have you to say, cynthia sprague?",
+          "time_s": 0.15310700399277266,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "6930-76324-0007",
+          "duration_s": 2.82,
+          "rtfx": 18.418491162776046,
+          "wer": 0.25,
+          "reference": "now what have you to say cynthia sprague"
+        },
+        {
+          "text": "i was to be taken away and carried to england or elsewhere or drowned upon the voyage it mattered not which.",
+          "time_s": 0.22099417800200172,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "8455-210777-0044",
+          "duration_s": 7.17,
+          "rtfx": 32.444293622681116,
+          "wer": 0.047619047619047616,
+          "reference": "i was to be taken away and carried to england or elsewhere or drowned upon the voyage it mattered not which"
+        },
+        {
+          "text": "the wearers of uniforms and liveries may be roughly divided into two classes the free and the servile or the noble and the ignoble.",
+          "time_s": 0.2480710719974013,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "3570-5694-0018",
+          "duration_s": 7.815,
+          "rtfx": 31.503068604798337,
+          "wer": 0.041666666666666664,
+          "reference": "the wearers of uniforms and liveries may be roughly divided into two classes the free and the servile or the noble and the ignoble"
+        },
+        {
+          "text": "this set of rooms is quite the oldest in the college and it is not unusual for visitors to go over them.",
+          "time_s": 0.22676849699928425,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "1580-141084-0002",
+          "duration_s": 5.905,
+          "rtfx": 26.039772182370807,
+          "wer": 0.045454545454545456,
+          "reference": "this set of rooms is quite the oldest in the college and it is not unusual for visitors to go over them"
+        },
+        {
+          "text": "but the dusk deepening in the schoolroom covered over his thoughts the bell rang",
+          "time_s": 0.1649207459995523,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "1089-134686-0015",
+          "duration_s": 5.815,
+          "rtfx": 35.25936027487885,
+          "wer": 0.0,
+          "reference": "but the dusk deepening in the schoolroom covered over his thoughts the bell rang"
+        },
+        {
+          "text": "it is enough said george gamewell sharply as he turned upon the crowd.",
+          "time_s": 0.17190015899541322,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "61-70968-0019",
+          "duration_s": 5.475,
+          "rtfx": 31.849883281062514,
+          "wer": 0.15384615384615385,
+          "reference": "it is enough said george gamewell sharply and he turned upon the crowd"
+        },
+        {
+          "text": "the news circulated with the rapidity of lightning during its progress it kindled every variety of coquetry desire and wild ambition.",
+          "time_s": 0.24629785100114532,
+          "model": "cohere-transcribe",
+          "load_time_s": 2.5517690230044536,
+          "sample_id": "7127-75946-0012",
+          "duration_s": 9.87,
+          "rtfx": 40.073431253584516,
+          "wer": 0.047619047619047616,
+          "reference": "the news circulated with the rapidity of lightning during its progress it kindled every variety of coquetry desire and wild ambition"
+        }
+      ],
+      "vram_peak_mb": 4026.65234375,
+      "vram_delta_mb": 4026.65234375,
+      "load_time_s": 2.5517690230044536,
+      "avg_wer": 0.11044249923066041,
+      "avg_rtfx": 28.546855878970497
+    }
+  },
+  "postprocess": {
+    "Post: qwen3.5-4b": {
+      "Cohere Transcribe 2B": [
+        {
+          "text": "They were absorbed in his theology and were under the dominion of his name. While that which was truly great and truly characteristic in him\u2014his effort to realize and connect abstractions\u2014was not understood by them at all.",
+          "time_s": 3.9972756799979834,
+          "model": "qwen3.5-4b",
+          "sample_id": "2961-960-0003",
+          "raw_text": "they were absorbed in his theology and were under the dominion of his name while that which was truly great and truly characteristic in him, his effort to realise and connect abstractions, was not understood by them at all.",
+          "wer_before": 0.10256410256410256,
+          "wer_after": 0.15384615384615385,
+          "reference": "they were absorbed in his theology and were under the dominion of his name while that which was truly great and truly characteristic in him his effort to realize and connect abstractions was not understood by them at all"
+        },
+        {
+          "text": "When this had been accomplished, Boolooroo leaned over to try to discover why the frame rolled away, seemingly of its own accord. He was the more puzzled because it had never done such a thing before.",
+          "time_s": 0.47673727199435234,
+          "model": "qwen3.5-4b",
+          "sample_id": "8555-284447-0017",
+          "raw_text": "when this had been accomplished the boolooroo leaned over to try to discover why the frame rolled away seemingly of its own accord and he was the more puzzled because it had never done such a thing before",
+          "wer_before": 0.0,
+          "wer_after": 0.15789473684210525,
+          "reference": "when this had been accomplished the boolooroo leaned over to try to discover why the frame rolled away seemingly of its own accord and he was the more puzzled because it had never done such a thing before"
+        },
+        {
+          "text": "Why, if we erect a station at the Falls, it is a great economy to get it up to the City.",
+          "time_s": 0.338888540994958,
+          "model": "qwen3.5-4b",
+          "sample_id": "2300-131720-0005",
+          "raw_text": "why, if we erect a station at the falls, it is a great economy to get it up to the city.",
+          "wer_before": 0.14285714285714285,
+          "wer_after": 0.14285714285714285,
+          "reference": "why if we erect a station at the falls it is a great economy to get it up to the city"
+        },
+        {
+          "text": "I wish you good night. She laid her bony hands on the back of Mr. Meadowcroft's invalid chair, cut him short in his farewell salutation to me, and wheeled him out to his bed as if she were wheeling him out to his grave.",
+          "time_s": 0.643421708009555,
+          "model": "qwen3.5-4b",
+          "sample_id": "5142-36377-0022",
+          "raw_text": "i wish you good night. she laid her bony hands on the back of mister meadowcroft's invalid chair, cut him short in his farewell salutation to me, and wheeled him out to his bed as if she were wheeling him out to his grave.",
+          "wer_before": 0.09090909090909091,
+          "wer_after": 0.11363636363636363,
+          "reference": "i wish you good night she laid her bony hands on the back of mister meadowcroft's invalid chair cut him short in his farewell salutation to me and wheeled him out to his bed as if she were wheeling him out to his grave"
+        },
+        {
+          "text": "Then said Sir Ferdinando, \"There is nothing for it but that we must take you with him.\"",
+          "time_s": 0.32165669299138244,
+          "model": "qwen3.5-4b",
+          "sample_id": "8455-210777-0040",
+          "raw_text": "then said sir ferdinando there is nothing for it but that we must take you with him.",
+          "wer_before": 0.11764705882352941,
+          "wer_after": 0.23529411764705882,
+          "reference": "then said sir ferdinando there is nothing for it but that he must take you with him"
+        },
+        {
+          "text": "All the furniture belonged to other times.",
+          "time_s": 0.21645848400657997,
+          "model": "qwen3.5-4b",
+          "sample_id": "5683-32866-0023",
+          "raw_text": "all the furniture belonged to other times.",
+          "wer_before": 0.14285714285714285,
+          "wer_after": 0.14285714285714285,
+          "reference": "all the furniture belonged to other times"
+        },
+        {
+          "text": "To night, there was no need for extra heat, and there were great ceremonies to be observed in lighting the fires on the hearthstones.",
+          "time_s": 0.3691425720026018,
+          "model": "qwen3.5-4b",
+          "sample_id": "4992-41806-0001",
+          "raw_text": "to night there was no need of extra heat and there were great ceremonies to be observed in lighting the fires on the hearthstones",
+          "wer_before": 0.0,
+          "wer_after": 0.16666666666666666,
+          "reference": "to night there was no need of extra heat and there were great ceremonies to be observed in lighting the fires on the hearthstones"
+        },
+        {
+          "text": "He had broken into her courtyard.",
+          "time_s": 0.20661449601175264,
+          "model": "qwen3.5-4b",
+          "sample_id": "8555-292519-0015",
+          "raw_text": "he had broken into her courtyard.",
+          "wer_before": 0.16666666666666666,
+          "wer_after": 0.16666666666666666,
+          "reference": "he had broken into her courtyard"
+        },
+        {
+          "text": "It was written in Latin.",
+          "time_s": 0.19568602500658017,
+          "model": "qwen3.5-4b",
+          "sample_id": "2830-3979-0004",
+          "raw_text": "it was written in latin.",
+          "wer_before": 0.2,
+          "wer_after": 0.2,
+          "reference": "it was written in latin"
+        },
+        {
+          "text": "Simply by stopping her carriage two or three times before the shop to have her snuff box filled, and by saying aloud to the young girl who handed back the box that her snuff was the very best in Paris.",
+          "time_s": 0.49145914799009915,
+          "model": "qwen3.5-4b",
+          "sample_id": "3729-6852-0032",
+          "raw_text": "simply by stopping her carriage two or three times before the shop to have her snuff box filled and by saying aloud to the young girl who handed back the box that her snuff was the very best in paris.",
+          "wer_before": 0.025,
+          "wer_after": 0.05,
+          "reference": "simply by stopping her carriage two or three times before the shop to have her snuff box filled and by saying aloud to the young girl who handed back the box that her snuff was the very best in paris"
+        },
+        {
+          "text": "Far from it, Your Majesty. Having received no directions regarding it, the musicians have retained it.",
+          "time_s": 0.3080878219916485,
+          "model": "qwen3.5-4b",
+          "sample_id": "7127-75946-0020",
+          "raw_text": "far from it, sire. your majesty having given no directions about it, the musicians have retained it.",
+          "wer_before": 0.23529411764705882,
+          "wer_after": 0.4117647058823529,
+          "reference": "far from it sire your majesty having given no directions about it the musicians have retained it"
+        },
+        {
+          "text": "She saves her hand too. She's at her best in the second act.",
+          "time_s": 0.2780787609954132,
+          "model": "qwen3.5-4b",
+          "sample_id": "4446-2271-0005",
+          "raw_text": "she saves her hand too. she's at her best in the second act.",
+          "wer_before": 0.15384615384615385,
+          "wer_after": 0.15384615384615385,
+          "reference": "she saves her hand too she's at her best in the second act"
+        },
+        {
+          "text": "When do you intend that John Bright shall start?",
+          "time_s": 0.23561579298984725,
+          "model": "qwen3.5-4b",
+          "sample_id": "8455-210777-0062",
+          "raw_text": "when do you intend that the john bright shall start?",
+          "wer_before": 0.1,
+          "wer_after": 0.2,
+          "reference": "when do you intend that the john bright shall start"
+        },
+        {
+          "text": "As he flew, his claws\u2014reaching and clutching\u2014were not half a yard above the fugitive's head.",
+          "time_s": 0.34758384501037654,
+          "model": "qwen3.5-4b",
+          "sample_id": "7176-88083-0019",
+          "raw_text": "as he flew, his down reaching clutching talons were not half a yard above the fugitive's head.",
+          "wer_before": 0.11764705882352941,
+          "wer_after": 0.4117647058823529,
+          "reference": "as he flew his down reaching clutching talons were not half a yard above the fugitive's head"
+        },
+        {
+          "text": "A house smells of smoke; a ship smells of frolic.",
+          "time_s": 0.2550600249960553,
+          "model": "qwen3.5-4b",
+          "sample_id": "5142-33396-0020",
+          "raw_text": "a house smells of smoke, a ship smells of frolic.",
+          "wer_before": 0.2,
+          "wer_after": 0.2,
+          "reference": "a house smells of smoke a ship smells of frolic"
+        },
+        {
+          "text": "Only that one answered the tree.",
+          "time_s": 0.20536479099246208,
+          "model": "qwen3.5-4b",
+          "sample_id": "672-122797-0059",
+          "raw_text": "only that one answered the tree.",
+          "wer_before": 0.16666666666666666,
+          "wer_after": 0.16666666666666666,
+          "reference": "only that one answered the tree"
+        },
+        {
+          "text": "My men pounded the table with their fists.",
+          "time_s": 0.22568020300241187,
+          "model": "qwen3.5-4b",
+          "sample_id": "5142-33396-0047",
+          "raw_text": "my men pounded the table with their fists.",
+          "wer_before": 0.125,
+          "wer_after": 0.125,
+          "reference": "my men pounded the table with their fists"
+        },
+        {
+          "text": "Before starting, it was indispensable that the engine of the Dobryna should be repaired; otherwise, sailing under canvas only would, in contrary winds and rough seas, be both tedious and difficult.",
+          "time_s": 0.45869890598987695,
+          "model": "qwen3.5-4b",
+          "sample_id": "5105-28240-0021",
+          "raw_text": "before starting it was indispensable that the engine of the dobryna should be repaired to sail under canvas only would in contrary winds and rough seas be both tedious and difficult.",
+          "wer_before": 0.03225806451612903,
+          "wer_after": 0.22580645161290322,
+          "reference": "before starting it was indispensable that the engine of the dobryna should be repaired to sail under canvas only would in contrary winds and rough seas be both tedious and difficult"
+        },
+        {
+          "text": "I pass away; yet I complain, and no one hears my voice.",
+          "time_s": 0.2765424829995027,
+          "model": "qwen3.5-4b",
+          "sample_id": "908-157963-0016",
+          "raw_text": "i pass away, yet i complain, and no one hears my voice.",
+          "wer_before": 0.25,
+          "wer_after": 0.25,
+          "reference": "i pass away yet i complain and no one hears my voice"
+        },
+        {
+          "text": "If I can get patience.",
+          "time_s": 0.20430569800373632,
+          "model": "qwen3.5-4b",
+          "sample_id": "4970-29095-0015",
+          "raw_text": "if i can get patience.",
+          "wer_before": 0.2,
+          "wer_after": 0.2,
+          "reference": "if i can get patients"
+        },
+        {
+          "text": "Good gracious, does the King have a right to interfere in matters of that kind?",
+          "time_s": 0.28571763398940675,
+          "model": "qwen3.5-4b",
+          "sample_id": "7127-75947-0035",
+          "raw_text": "good gracious, has the king any right to interfere in matters of that kind?",
+          "wer_before": 0.14285714285714285,
+          "wer_after": 0.35714285714285715,
+          "reference": "good gracious has the king any right to interfere in matters of that kind"
+        },
+        {
+          "text": "I will briefly describe them to you, and you shall read the account of them at your leisure in the sacred registers.",
+          "time_s": 0.342667614997481,
+          "model": "qwen3.5-4b",
+          "sample_id": "2961-961-0016",
+          "raw_text": "i will briefly describe them to you, and you shall read the account of them at your leisure in the sacred registers.",
+          "wer_before": 0.09090909090909091,
+          "wer_after": 0.09090909090909091,
+          "reference": "i will briefly describe them to you and you shall read the account of them at your leisure in the sacred registers"
+        },
+        {
+          "text": "Yes, the character which Your Royal Highness assumes is in perfect harmony with your own.",
+          "time_s": 0.3103017679968616,
+          "model": "qwen3.5-4b",
+          "sample_id": "7127-75947-0003",
+          "raw_text": "yes, the character which your royal highness assumed is in perfect harmony with your own.",
+          "wer_before": 0.13333333333333333,
+          "wer_after": 0.2,
+          "reference": "yes the character which your royal highness assumed is in perfect harmony with your own"
+        },
+        {
+          "text": "I say you do know what this means, and you must tell us.",
+          "time_s": 0.26506890599557664,
+          "model": "qwen3.5-4b",
+          "sample_id": "6930-81414-0020",
+          "raw_text": "i say you do know what this means and you must tell us.",
+          "wer_before": 0.07692307692307693,
+          "wer_after": 0.15384615384615385,
+          "reference": "i say you do know what this means and you must tell us"
+        },
+        {
+          "text": "And fearest thou because I vanish and am seen no more?",
+          "time_s": 0.2602727179910289,
+          "model": "qwen3.5-4b",
+          "sample_id": "908-157963-0018",
+          "raw_text": "and fearest thou because i vanish and am seen no more?",
+          "wer_before": 0.09090909090909091,
+          "wer_after": 0.09090909090909091,
+          "reference": "and fearest thou because i vanish and am seen no more"
+        },
+        {
+          "text": "I almost think I can remember feeling a little different.",
+          "time_s": 0.23609194799792022,
+          "model": "qwen3.5-4b",
+          "sample_id": "260-123440-0007",
+          "raw_text": "i almost think i can remember feeling a little different.",
+          "wer_before": 0.1,
+          "wer_after": 0.1,
+          "reference": "i almost think i can remember feeling a little different"
+        },
+        {
+          "text": "Well, then, last: Here is Turner's Greek School of the Highest Class. And you define his art absolutely as:\n\n- First, the displaying intensely and with the sternest intellect of natural form as it is.\n- Then, the envelopment of it with cloud and fire.",
+          "time_s": 0.6127582810004242,
+          "model": "qwen3.5-4b",
+          "sample_id": "1188-133604-0028",
+          "raw_text": "well then, last, here is turner's greek school of the highest class, and you define his art absolutely as first the displaying intensely and with the sternest intellect of natural form as it is, and then the envelopment of it with cloud and fire.",
+          "wer_before": 0.11363636363636363,
+          "wer_after": 0.25,
+          "reference": "well then last here is turner's greek school of the highest class and you define his art absolutely as first the displaying intensely and with the sternest intellect of natural form as it is and then the envelopment of it with cloud and fire"
+        },
+        {
+          "text": "In this case, as in most others, what may be taken as certain in advance is rather vague.",
+          "time_s": 0.31740327199804597,
+          "model": "qwen3.5-4b",
+          "sample_id": "8230-279154-0023",
+          "raw_text": "in this case, as in most others, what may be taken as certain in advance is rather vague.",
+          "wer_before": 0.16666666666666666,
+          "wer_after": 0.16666666666666666,
+          "reference": "in this case as in most others what may be taken as certain in advance is rather vague"
+        },
+        {
+          "text": "First, as a Paris stockbroker; later, as a celebrated author and yachtsman, he went on frequent voyages to Britain, America, and the Mediterranean.",
+          "time_s": 0.41672647300583776,
+          "model": "qwen3.5-4b",
+          "sample_id": "8463-294825-0002",
+          "raw_text": "first as a paris stockbroker, later as a celebrated author and yachtsman, he went on frequent voyages to britain, america, the mediterranean.",
+          "wer_before": 0.22727272727272727,
+          "wer_after": 0.36363636363636365,
+          "reference": "first as a paris stockbroker later as a celebrated author and yachtsman he went on frequent voyages to britain america the mediterranean"
+        },
+        {
+          "text": "I discovered and put out a fire that would have destroyed the whole plant, but Martial never even thanked me.",
+          "time_s": 0.32615274799172767,
+          "model": "qwen3.5-4b",
+          "sample_id": "6829-68769-0032",
+          "raw_text": "i discovered and put out a fire that would have destroyed the whole plant, but martial never even thanked me.",
+          "wer_before": 0.15,
+          "wer_after": 0.15,
+          "reference": "i discovered and put out a fire that would have destroyed the whole plant but marshall never even thanked me"
+        },
+        {
+          "text": "I cannot deny myself the gratification of inserting Southey's reply.",
+          "time_s": 0.2675974949961528,
+          "model": "qwen3.5-4b",
+          "sample_id": "3575-170457-0027",
+          "raw_text": "i cannot deny myself the gratification of inserting southey's reply.",
+          "wer_before": 0.1,
+          "wer_after": 0.1,
+          "reference": "i cannot deny myself the gratification of inserting southey's reply"
+        },
+        {
+          "text": "The use of the word \"waste\" as a technical term therefore implies no deprecation of the motives or of the ends sought by the consumer under this canon of conspicuous waste.",
+          "time_s": 0.42744365200633183,
+          "model": "qwen3.5-4b",
+          "sample_id": "3570-5696-0007",
+          "raw_text": "the use of the word waste as a technical term therefore implies no deprecation of the motives or of the ends sought by the consumer under this canon of conspicuous waste.",
+          "wer_before": 0.03225806451612903,
+          "wer_after": 0.06451612903225806,
+          "reference": "the use of the word waste as a technical term therefore implies no deprecation of the motives or of the ends sought by the consumer under this canon of conspicuous waste"
+        },
+        {
+          "text": "Then the leader parted from the line.",
+          "time_s": 0.2141806060099043,
+          "model": "qwen3.5-4b",
+          "sample_id": "7176-88083-0027",
+          "raw_text": "then the leader parted from the line",
+          "wer_before": 0.0,
+          "wer_after": 0.14285714285714285,
+          "reference": "then the leader parted from the line"
+        },
+        {
+          "text": "On the mast, I already see the light play of Saint Elwell's fire. The outstretched sail catches not a breath of wind and hangs like a sheet of lead.",
+          "time_s": 0.43023615500715096,
+          "model": "qwen3.5-4b",
+          "sample_id": "260-123288-0010",
+          "raw_text": "on the mast already i see the light play of a lament saint elwell's fire the outstretched sail catches not a breath of wind and hangs like a sheet of lead.",
+          "wer_before": 0.0967741935483871,
+          "wer_after": 0.25806451612903225,
+          "reference": "on the mast already i see the light play of a lambent saint elmo's fire the outstretched sail catches not a breath of wind and hangs like a sheet of lead"
+        },
+        {
+          "text": "It takes me several years to make this magic powder, but at this moment I am pleased to say it is nearly done. You see, I am making it for my good wife Margolotte, who wants to use some of it for a purpose of her own.",
+          "time_s": 0.5797642760007875,
+          "model": "qwen3.5-4b",
+          "sample_id": "1284-1180-0018",
+          "raw_text": "it takes me several years to make this magic powder, but at this moment i am pleased to say it is nearly done. you see, i am making it for my good wife margolotte, who wants to use some of it for a purpose of her own.",
+          "wer_before": 0.10638297872340426,
+          "wer_after": 0.10638297872340426,
+          "reference": "it takes me several years to make this magic powder but at this moment i am pleased to say it is nearly done you see i am making it for my good wife margolotte who wants to use some of it for a purpose of her own"
+        },
+        {
+          "text": "It is hardly necessary to say more of them here.",
+          "time_s": 0.23452406899014022,
+          "model": "qwen3.5-4b",
+          "sample_id": "8463-287645-0001",
+          "raw_text": "it is hardly necessary to say more of them here.",
+          "wer_before": 0.1,
+          "wer_after": 0.1,
+          "reference": "it is hardly necessary to say more of them here"
+        },
+        {
+          "text": "Not at all; on the contrary, you are most agreeable to me.",
+          "time_s": 0.2744351879955502,
+          "model": "qwen3.5-4b",
+          "sample_id": "7127-75946-0009",
+          "raw_text": "not at all you are on the contrary most agreeable to me",
+          "wer_before": 0.0,
+          "wer_after": 0.5833333333333334,
+          "reference": "not at all you are on the contrary most agreeable to me"
+        },
+        {
+          "text": "While the former foretold that the Scottish Covenanters were secretly forming a union with the English Parliament and inculcated the necessity of preventing them by some vigorous undertaking, the latter still insisted that every such attempt would precipitate them into measures to which otherwise they were not perhaps inclined.",
+          "time_s": 0.6121896840049885,
+          "model": "qwen3.5-4b",
+          "sample_id": "8224-274381-0002",
+          "raw_text": "while the former foretold that the scottish covenanters were secretly forming a union with the english parliament, and inculcated the necessity of preventing them by some vigorous undertaking, the latter still insisted that every such attempt would precipitate them into measures to which otherwise they were not perhaps inclined.",
+          "wer_before": 0.061224489795918366,
+          "wer_after": 0.04081632653061224,
+          "reference": "while the former foretold that the scottish covenanters were secretly forming a union with the english parliament and inculcated the necessity of preventing them by some vigorous undertaking the latter still insisted that every such attempt would precipitate them into measures to which otherwise they were not perhaps inclined"
+        },
+        {
+          "text": "He was such a big boy that he wore high boots and carried a jackknife.",
+          "time_s": 0.28573636400687974,
+          "model": "qwen3.5-4b",
+          "sample_id": "7021-85628-0002",
+          "raw_text": "he was such a big boy that he wore high boots and carried a jack knife.",
+          "wer_before": 0.0625,
+          "wer_after": 0.125,
+          "reference": "he was such a big boy that he wore high boots and carried a jack knife"
+        },
+        {
+          "text": "The Fairview Band was engaged to discourse as much harmony as it could produce; the resources of the Great House were taxed to entertain the guests.",
+          "time_s": 0.3767876339989016,
+          "model": "qwen3.5-4b",
+          "sample_id": "6829-68771-0010",
+          "raw_text": "the fairview band was engaged to discourse as much harmony as it could produce and the resources of the great house were taxed to entertain the guests.",
+          "wer_before": 0.037037037037037035,
+          "wer_after": 0.1111111111111111,
+          "reference": "the fairview band was engaged to discourse as much harmony as it could produce and the resources of the great house were taxed to entertain the guests"
+        },
+        {
+          "text": "Although the brethren with me are not apostles like myself, yet they are all of one mind with me, thinking, writing, and teaching as I do.",
+          "time_s": 0.3967911829968216,
+          "model": "qwen3.5-4b",
+          "sample_id": "2830-3980-0029",
+          "raw_text": "although the brethren with me are not apostles like myself, yet they are all of one mind with me, think, write, and teach as i do.",
+          "wer_before": 0.19230769230769232,
+          "wer_after": 0.23076923076923078,
+          "reference": "although the brethren with me are not apostles like myself yet they are all of one mind with me think write and teach as i do"
+        },
+        {
+          "text": "When I addressed him, he answered constrainedly.",
+          "time_s": 0.23543658098788,
+          "model": "qwen3.5-4b",
+          "sample_id": "5142-36377-0019",
+          "raw_text": "when i addressed him, he answered constrainedly.",
+          "wer_before": 0.2857142857142857,
+          "wer_after": 0.2857142857142857,
+          "reference": "when i addressed him he answered constrainedly"
+        },
+        {
+          "text": "The music came nearer, and he recalled the words of Shelley's \"Fragment Upon the Moon\": Wandering companionless, pale for weariness.",
+          "time_s": 0.3766301119903801,
+          "model": "qwen3.5-4b",
+          "sample_id": "1089-134686-0005",
+          "raw_text": "the music came nearer and he recalled the words the words of shelley's fragment upon the moon wandering companionless pale for weariness",
+          "wer_before": 0.0,
+          "wer_after": 0.3181818181818182,
+          "reference": "the music came nearer and he recalled the words the words of shelley's fragment upon the moon wandering companionless pale for weariness"
+        },
+        {
+          "text": "Now, what do you have to say, Cynthia Sprague?",
+          "time_s": 0.2539641130133532,
+          "model": "qwen3.5-4b",
+          "sample_id": "6930-76324-0007",
+          "raw_text": "now what have you to say, cynthia sprague?",
+          "wer_before": 0.25,
+          "wer_after": 0.625,
+          "reference": "now what have you to say cynthia sprague"
+        },
+        {
+          "text": "I was to be taken away and carried to England or elsewhere or drowned on the voyage; it mattered not which.",
+          "time_s": 0.3268746760004433,
+          "model": "qwen3.5-4b",
+          "sample_id": "8455-210777-0044",
+          "raw_text": "i was to be taken away and carried to england or elsewhere or drowned upon the voyage it mattered not which.",
+          "wer_before": 0.047619047619047616,
+          "wer_after": 0.14285714285714285,
+          "reference": "i was to be taken away and carried to england or elsewhere or drowned upon the voyage it mattered not which"
+        },
+        {
+          "text": "The wearers of uniforms and liveries may be roughly divided into two classes: the free and the servile, or the noble and the ignoble.",
+          "time_s": 0.38750389200868085,
+          "model": "qwen3.5-4b",
+          "sample_id": "3570-5694-0018",
+          "raw_text": "the wearers of uniforms and liveries may be roughly divided into two classes the free and the servile or the noble and the ignoble.",
+          "wer_before": 0.041666666666666664,
+          "wer_after": 0.125,
+          "reference": "the wearers of uniforms and liveries may be roughly divided into two classes the free and the servile or the noble and the ignoble"
+        },
+        {
+          "text": "This set of rooms is quite the oldest in the college, and it is not unusual for visitors to go over them.",
+          "time_s": 0.33570756200060714,
+          "model": "qwen3.5-4b",
+          "sample_id": "1580-141084-0002",
+          "raw_text": "this set of rooms is quite the oldest in the college and it is not unusual for visitors to go over them.",
+          "wer_before": 0.045454545454545456,
+          "wer_after": 0.09090909090909091,
+          "reference": "this set of rooms is quite the oldest in the college and it is not unusual for visitors to go over them"
+        },
+        {
+          "text": "But the dusk deepened in the schoolroom, covering over his thoughts. The bell rang.",
+          "time_s": 0.30504333499993663,
+          "model": "qwen3.5-4b",
+          "sample_id": "1089-134686-0015",
+          "raw_text": "but the dusk deepening in the schoolroom covered over his thoughts the bell rang",
+          "wer_before": 0.0,
+          "wer_after": 0.35714285714285715,
+          "reference": "but the dusk deepening in the schoolroom covered over his thoughts the bell rang"
+        },
+        {
+          "text": "It is enough said, George Gamewell, sharply as he turned upon the crowd.",
+          "time_s": 0.2960432469990337,
+          "model": "qwen3.5-4b",
+          "sample_id": "61-70968-0019",
+          "raw_text": "it is enough said george gamewell sharply as he turned upon the crowd.",
+          "wer_before": 0.15384615384615385,
+          "wer_after": 0.3076923076923077,
+          "reference": "it is enough said george gamewell sharply and he turned upon the crowd"
+        },
+        {
+          "text": "The news circulated with the rapidity of lightning during its progress; it kindled every variety of coquetry, desire, and wild ambition.",
+          "time_s": 0.37630736800201703,
+          "model": "qwen3.5-4b",
+          "sample_id": "7127-75946-0012",
+          "raw_text": "the news circulated with the rapidity of lightning during its progress it kindled every variety of coquetry desire and wild ambition.",
+          "wer_before": 0.047619047619047616,
+          "wer_after": 0.19047619047619047,
+          "reference": "the news circulated with the rapidity of lightning during its progress it kindled every variety of coquetry desire and wild ambition"
+        }
+      ]
+    },
+    "Post: gemma-4-e2b-it": {
+      "Cohere Transcribe 2B": [
+        {
+          "text": "They were absorbed in his theology and were under the dominion of his name, while that which was truly great and truly characteristic in him\u2014his effort to realize and connect abstractions\u2014was not understood by them at all.",
+          "time_s": 3.555959442004678,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "2961-960-0003",
+          "raw_text": "they were absorbed in his theology and were under the dominion of his name while that which was truly great and truly characteristic in him, his effort to realise and connect abstractions, was not understood by them at all.",
+          "wer_before": 0.10256410256410256,
+          "wer_after": 0.15384615384615385,
+          "reference": "they were absorbed in his theology and were under the dominion of his name while that which was truly great and truly characteristic in him his effort to realize and connect abstractions was not understood by them at all"
+        },
+        {
+          "text": "When this had been accomplished, the boolooroo leaned over to try to discover why the frame rolled away, seemingly of its own accord, and he was more puzzled because it had never done such a thing before.",
+          "time_s": 0.36826285198912956,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "8555-284447-0017",
+          "raw_text": "when this had been accomplished the boolooroo leaned over to try to discover why the frame rolled away seemingly of its own accord and he was the more puzzled because it had never done such a thing before",
+          "wer_before": 0.0,
+          "wer_after": 0.13157894736842105,
+          "reference": "when this had been accomplished the boolooroo leaned over to try to discover why the frame rolled away seemingly of its own accord and he was the more puzzled because it had never done such a thing before"
+        },
+        {
+          "text": "Why, if we erect a station at the falls, it is a great economy to get it up to the city.",
+          "time_s": 0.23858908900001552,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "2300-131720-0005",
+          "raw_text": "why, if we erect a station at the falls, it is a great economy to get it up to the city.",
+          "wer_before": 0.14285714285714285,
+          "wer_after": 0.14285714285714285,
+          "reference": "why if we erect a station at the falls it is a great economy to get it up to the city"
+        },
+        {
+          "text": "I wish you good night. She laid her bony hands on the back of Mr. Meadowcroft's invalid chair, cut him short in his farewell salutation to me, and wheeled him out to his bed as if she were wheeling him out to his grave.",
+          "time_s": 0.43926043300598394,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "5142-36377-0022",
+          "raw_text": "i wish you good night. she laid her bony hands on the back of mister meadowcroft's invalid chair, cut him short in his farewell salutation to me, and wheeled him out to his bed as if she were wheeling him out to his grave.",
+          "wer_before": 0.09090909090909091,
+          "wer_after": 0.11363636363636363,
+          "reference": "i wish you good night she laid her bony hands on the back of mister meadowcroft's invalid chair cut him short in his farewell salutation to me and wheeled him out to his bed as if she were wheeling him out to his grave"
+        },
+        {
+          "text": "Then said, \"Sir Ferdinando, there is nothing for it but that we must take you with him.\"",
+          "time_s": 0.2235226680058986,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "8455-210777-0040",
+          "raw_text": "then said sir ferdinando there is nothing for it but that we must take you with him.",
+          "wer_before": 0.11764705882352941,
+          "wer_after": 0.29411764705882354,
+          "reference": "then said sir ferdinando there is nothing for it but that he must take you with him"
+        },
+        {
+          "text": "All the furniture belonged to other times",
+          "time_s": 0.13554070300597232,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "5683-32866-0023",
+          "raw_text": "all the furniture belonged to other times.",
+          "wer_before": 0.14285714285714285,
+          "wer_after": 0.0,
+          "reference": "all the furniture belonged to other times"
+        },
+        {
+          "text": "Tonight there was no need of extra heat and there were great ceremonies to be observed in lighting the fires on the hearthstones",
+          "time_s": 0.23324658500496298,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "4992-41806-0001",
+          "raw_text": "to night there was no need of extra heat and there were great ceremonies to be observed in lighting the fires on the hearthstones",
+          "wer_before": 0.0,
+          "wer_after": 0.08333333333333333,
+          "reference": "to night there was no need of extra heat and there were great ceremonies to be observed in lighting the fires on the hearthstones"
+        },
+        {
+          "text": "He had broken into her courtyard.",
+          "time_s": 0.1307376659970032,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "8555-292519-0015",
+          "raw_text": "he had broken into her courtyard.",
+          "wer_before": 0.16666666666666666,
+          "wer_after": 0.16666666666666666,
+          "reference": "he had broken into her courtyard"
+        },
+        {
+          "text": "It was written in Latin.",
+          "time_s": 0.12508347800758202,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "2830-3979-0004",
+          "raw_text": "it was written in latin.",
+          "wer_before": 0.2,
+          "wer_after": 0.2,
+          "reference": "it was written in latin"
+        },
+        {
+          "text": "Simply by stopping her carriage two or three times before the shop to have her snuff box filled and by saying aloud to the young girl who handed back the box that her snuff was the very best in Paris.",
+          "time_s": 0.3557923830085201,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "3729-6852-0032",
+          "raw_text": "simply by stopping her carriage two or three times before the shop to have her snuff box filled and by saying aloud to the young girl who handed back the box that her snuff was the very best in paris.",
+          "wer_before": 0.025,
+          "wer_after": 0.025,
+          "reference": "simply by stopping her carriage two or three times before the shop to have her snuff box filled and by saying aloud to the young girl who handed back the box that her snuff was the very best in paris"
+        },
+        {
+          "text": "Far from it, sire. Your Majesty having given no directions about it, the musicians have retained it.",
+          "time_s": 0.21469590198830701,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "7127-75946-0020",
+          "raw_text": "far from it, sire. your majesty having given no directions about it, the musicians have retained it.",
+          "wer_before": 0.23529411764705882,
+          "wer_after": 0.23529411764705882,
+          "reference": "far from it sire your majesty having given no directions about it the musicians have retained it"
+        },
+        {
+          "text": "She saves her hand too. She's at her best in the second act.",
+          "time_s": 0.19194607900863048,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "4446-2271-0005",
+          "raw_text": "she saves her hand too. she's at her best in the second act.",
+          "wer_before": 0.15384615384615385,
+          "wer_after": 0.15384615384615385,
+          "reference": "she saves her hand too she's at her best in the second act"
+        },
+        {
+          "text": "When do you intend that the John Bright shall start?",
+          "time_s": 0.15058684399991762,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "8455-210777-0062",
+          "raw_text": "when do you intend that the john bright shall start?",
+          "wer_before": 0.1,
+          "wer_after": 0.1,
+          "reference": "when do you intend that the john bright shall start"
+        },
+        {
+          "text": "As he flew, his down reaching clutching talons were not half a yard above the fugitive's head.",
+          "time_s": 0.22135349200107157,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "7176-88083-0019",
+          "raw_text": "as he flew, his down reaching clutching talons were not half a yard above the fugitive's head.",
+          "wer_before": 0.11764705882352941,
+          "wer_after": 0.11764705882352941,
+          "reference": "as he flew his down reaching clutching talons were not half a yard above the fugitive's head"
+        },
+        {
+          "text": "A house smells of smoke, a ship smells of frolic",
+          "time_s": 0.16103207899141125,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "5142-33396-0020",
+          "raw_text": "a house smells of smoke, a ship smells of frolic.",
+          "wer_before": 0.2,
+          "wer_after": 0.1,
+          "reference": "a house smells of smoke a ship smells of frolic"
+        },
+        {
+          "text": "Only that one answered the tree",
+          "time_s": 0.12101672000426333,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "672-122797-0059",
+          "raw_text": "only that one answered the tree.",
+          "wer_before": 0.16666666666666666,
+          "wer_after": 0.0,
+          "reference": "only that one answered the tree"
+        },
+        {
+          "text": "My men pounded the table with their fists.",
+          "time_s": 0.1404523629898904,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "5142-33396-0047",
+          "raw_text": "my men pounded the table with their fists.",
+          "wer_before": 0.125,
+          "wer_after": 0.125,
+          "reference": "my men pounded the table with their fists"
+        },
+        {
+          "text": "Before starting it was indispensable that the engine of the Dobryna should be repaired to sail under canvas only. In contrary winds and rough seas, it would be both tedious and difficult.",
+          "time_s": 0.3333081730088452,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "5105-28240-0021",
+          "raw_text": "before starting it was indispensable that the engine of the dobryna should be repaired to sail under canvas only would in contrary winds and rough seas be both tedious and difficult.",
+          "wer_before": 0.03225806451612903,
+          "wer_after": 0.1935483870967742,
+          "reference": "before starting it was indispensable that the engine of the dobryna should be repaired to sail under canvas only would in contrary winds and rough seas be both tedious and difficult"
+        },
+        {
+          "text": "I pass away, yet I complain, and no one hears my voice.",
+          "time_s": 0.18022410898993257,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "908-157963-0016",
+          "raw_text": "i pass away, yet i complain, and no one hears my voice.",
+          "wer_before": 0.25,
+          "wer_after": 0.25,
+          "reference": "i pass away yet i complain and no one hears my voice"
+        },
+        {
+          "text": "If I can get patience",
+          "time_s": 0.10895006501232274,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "4970-29095-0015",
+          "raw_text": "if i can get patience.",
+          "wer_before": 0.2,
+          "wer_after": 0.2,
+          "reference": "if i can get patients"
+        },
+        {
+          "text": "Good gracious, has the king any right to interfere in matters of that kind?",
+          "time_s": 0.1914909539918881,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "7127-75947-0035",
+          "raw_text": "good gracious, has the king any right to interfere in matters of that kind?",
+          "wer_before": 0.14285714285714285,
+          "wer_after": 0.14285714285714285,
+          "reference": "good gracious has the king any right to interfere in matters of that kind"
+        },
+        {
+          "text": "I will briefly describe them to you, and you shall read the account of them at your leisure in the sacred registers.",
+          "time_s": 0.23192092899989802,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "2961-961-0016",
+          "raw_text": "i will briefly describe them to you, and you shall read the account of them at your leisure in the sacred registers.",
+          "wer_before": 0.09090909090909091,
+          "wer_after": 0.09090909090909091,
+          "reference": "i will briefly describe them to you and you shall read the account of them at your leisure in the sacred registers"
+        },
+        {
+          "text": "Yes, the character which your royal highness assumed is in perfect harmony with your own.",
+          "time_s": 0.20142845300142653,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "7127-75947-0003",
+          "raw_text": "yes, the character which your royal highness assumed is in perfect harmony with your own.",
+          "wer_before": 0.13333333333333333,
+          "wer_after": 0.13333333333333333,
+          "reference": "yes the character which your royal highness assumed is in perfect harmony with your own"
+        },
+        {
+          "text": "I say, you do know what this means, and you must tell us.",
+          "time_s": 0.18077990600431804,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "6930-81414-0020",
+          "raw_text": "i say you do know what this means and you must tell us.",
+          "wer_before": 0.07692307692307693,
+          "wer_after": 0.23076923076923078,
+          "reference": "i say you do know what this means and you must tell us"
+        },
+        {
+          "text": "And fearest thou because I vanish and am seen no more?",
+          "time_s": 0.15986060499562882,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "908-157963-0018",
+          "raw_text": "and fearest thou because i vanish and am seen no more?",
+          "wer_before": 0.09090909090909091,
+          "wer_after": 0.09090909090909091,
+          "reference": "and fearest thou because i vanish and am seen no more"
+        },
+        {
+          "text": "I almost think I can remember feeling a little different",
+          "time_s": 0.15071032599371392,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "260-123440-0007",
+          "raw_text": "i almost think i can remember feeling a little different.",
+          "wer_before": 0.1,
+          "wer_after": 0.0,
+          "reference": "i almost think i can remember feeling a little different"
+        },
+        {
+          "text": "Well then, last, here is Turner's Greek school of the highest class, and you define his art absolutely as first the displaying intensely and with the sternest intellect of natural form as it is, and then the envelopment of it with cloud and fire.",
+          "time_s": 0.4233901719999267,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "1188-133604-0028",
+          "raw_text": "well then, last, here is turner's greek school of the highest class, and you define his art absolutely as first the displaying intensely and with the sternest intellect of natural form as it is, and then the envelopment of it with cloud and fire.",
+          "wer_before": 0.11363636363636363,
+          "wer_after": 0.11363636363636363,
+          "reference": "well then last here is turner's greek school of the highest class and you define his art absolutely as first the displaying intensely and with the sternest intellect of natural form as it is and then the envelopment of it with cloud and fire"
+        },
+        {
+          "text": "In this case, as in most others, what may be taken as certain in advance is rather vague.",
+          "time_s": 0.22045736099244095,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "8230-279154-0023",
+          "raw_text": "in this case, as in most others, what may be taken as certain in advance is rather vague.",
+          "wer_before": 0.16666666666666666,
+          "wer_after": 0.16666666666666666,
+          "reference": "in this case as in most others what may be taken as certain in advance is rather vague"
+        },
+        {
+          "text": "First as a Paris stockbroker, later as a celebrated author and yachtsman, he went on frequent voyages to Britain, America, the Mediterranean",
+          "time_s": 0.27122470999893267,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "8463-294825-0002",
+          "raw_text": "first as a paris stockbroker, later as a celebrated author and yachtsman, he went on frequent voyages to britain, america, the mediterranean.",
+          "wer_before": 0.22727272727272727,
+          "wer_after": 0.18181818181818182,
+          "reference": "first as a paris stockbroker later as a celebrated author and yachtsman he went on frequent voyages to britain america the mediterranean"
+        },
+        {
+          "text": "I discovered and put out a fire that would have destroyed the whole plant, but Martial never even thanked me.",
+          "time_s": 0.22000163499615155,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "6829-68769-0032",
+          "raw_text": "i discovered and put out a fire that would have destroyed the whole plant, but martial never even thanked me.",
+          "wer_before": 0.15,
+          "wer_after": 0.15,
+          "reference": "i discovered and put out a fire that would have destroyed the whole plant but marshall never even thanked me"
+        },
+        {
+          "text": "I cannot deny myself the gratification of inserting Southey's reply.",
+          "time_s": 0.16984911500185262,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "3575-170457-0027",
+          "raw_text": "i cannot deny myself the gratification of inserting southey's reply.",
+          "wer_before": 0.1,
+          "wer_after": 0.1,
+          "reference": "i cannot deny myself the gratification of inserting southey's reply"
+        },
+        {
+          "text": "The use of the word waste as a technical term therefore implies no deprecation of the motives or of the ends sought by the consumer under this canon of conspicuous waste.",
+          "time_s": 0.29198975799954496,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "3570-5696-0007",
+          "raw_text": "the use of the word waste as a technical term therefore implies no deprecation of the motives or of the ends sought by the consumer under this canon of conspicuous waste.",
+          "wer_before": 0.03225806451612903,
+          "wer_after": 0.03225806451612903,
+          "reference": "the use of the word waste as a technical term therefore implies no deprecation of the motives or of the ends sought by the consumer under this canon of conspicuous waste"
+        },
+        {
+          "text": "Then the leader parted from the line",
+          "time_s": 0.1296110130060697,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "7176-88083-0027",
+          "raw_text": "then the leader parted from the line",
+          "wer_before": 0.0,
+          "wer_after": 0.0,
+          "reference": "then the leader parted from the line"
+        },
+        {
+          "text": "On the mast already I see the light play of a lament saint elwell's fire the outstretched sail catches not a breath of wind and hangs like a sheet of lead",
+          "time_s": 0.31192781700519845,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "260-123288-0010",
+          "raw_text": "on the mast already i see the light play of a lament saint elwell's fire the outstretched sail catches not a breath of wind and hangs like a sheet of lead.",
+          "wer_before": 0.0967741935483871,
+          "wer_after": 0.06451612903225806,
+          "reference": "on the mast already i see the light play of a lambent saint elmo's fire the outstretched sail catches not a breath of wind and hangs like a sheet of lead"
+        },
+        {
+          "text": "It takes me several years to make this magic powder, but at this moment I am pleased to say it is nearly done. You see, I am making it for my good wife Margollette, who wants to use some of it for a purpose of her own.",
+          "time_s": 0.4327962349925656,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "1284-1180-0018",
+          "raw_text": "it takes me several years to make this magic powder, but at this moment i am pleased to say it is nearly done. you see, i am making it for my good wife margolotte, who wants to use some of it for a purpose of her own.",
+          "wer_before": 0.10638297872340426,
+          "wer_after": 0.10638297872340426,
+          "reference": "it takes me several years to make this magic powder but at this moment i am pleased to say it is nearly done you see i am making it for my good wife margolotte who wants to use some of it for a purpose of her own"
+        },
+        {
+          "text": "It is hardly necessary to say more of them here.",
+          "time_s": 0.1500219180015847,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "8463-287645-0001",
+          "raw_text": "it is hardly necessary to say more of them here.",
+          "wer_before": 0.1,
+          "wer_after": 0.1,
+          "reference": "it is hardly necessary to say more of them here"
+        },
+        {
+          "text": "Not at all. You are on the contrary, most agreeable to me.",
+          "time_s": 0.17933791800169274,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "7127-75946-0009",
+          "raw_text": "not at all you are on the contrary most agreeable to me",
+          "wer_before": 0.0,
+          "wer_after": 0.25,
+          "reference": "not at all you are on the contrary most agreeable to me"
+        },
+        {
+          "text": "While the former foretold that the Scottish Covenanters were secretly forming a union with the English Parliament, and inculcated the necessity of preventing them by some vigorous undertaking, the latter still insisted that every such attempt would precipitate them into measures to which otherwise they were not perhaps inclined.",
+          "time_s": 0.43465390701021533,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "8224-274381-0002",
+          "raw_text": "while the former foretold that the scottish covenanters were secretly forming a union with the english parliament, and inculcated the necessity of preventing them by some vigorous undertaking, the latter still insisted that every such attempt would precipitate them into measures to which otherwise they were not perhaps inclined.",
+          "wer_before": 0.061224489795918366,
+          "wer_after": 0.061224489795918366,
+          "reference": "while the former foretold that the scottish covenanters were secretly forming a union with the english parliament and inculcated the necessity of preventing them by some vigorous undertaking the latter still insisted that every such attempt would precipitate them into measures to which otherwise they were not perhaps inclined"
+        },
+        {
+          "text": "He was such a big boy that he wore high boots and carried a jackknife.",
+          "time_s": 0.17971340300573502,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "7021-85628-0002",
+          "raw_text": "he was such a big boy that he wore high boots and carried a jack knife.",
+          "wer_before": 0.0625,
+          "wer_after": 0.125,
+          "reference": "he was such a big boy that he wore high boots and carried a jack knife"
+        },
+        {
+          "text": "The Fairview Band was engaged to discourse as much harmony as it could produce and the resources of the great house were taxed to entertain the guests.",
+          "time_s": 0.260674482997274,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "6829-68771-0010",
+          "raw_text": "the fairview band was engaged to discourse as much harmony as it could produce and the resources of the great house were taxed to entertain the guests.",
+          "wer_before": 0.037037037037037035,
+          "wer_after": 0.037037037037037035,
+          "reference": "the fairview band was engaged to discourse as much harmony as it could produce and the resources of the great house were taxed to entertain the guests"
+        },
+        {
+          "text": "Although the brethren with me are not apostles like myself, yet they are all of one mind with me: think, write, and teach as I do.",
+          "time_s": 0.28083119400253054,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "2830-3980-0029",
+          "raw_text": "although the brethren with me are not apostles like myself, yet they are all of one mind with me, think, write, and teach as i do.",
+          "wer_before": 0.19230769230769232,
+          "wer_after": 0.19230769230769232,
+          "reference": "although the brethren with me are not apostles like myself yet they are all of one mind with me think write and teach as i do"
+        },
+        {
+          "text": "When I addressed him, he answered constrainedly.",
+          "time_s": 0.14853827000479214,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "5142-36377-0019",
+          "raw_text": "when i addressed him, he answered constrainedly.",
+          "wer_before": 0.2857142857142857,
+          "wer_after": 0.2857142857142857,
+          "reference": "when i addressed him he answered constrainedly"
+        },
+        {
+          "text": "The music came nearer, and he recalled the words: the words of Shelley's fragment, \"Upon the Moon,\" wandering, companionless, pale for weariness.",
+          "time_s": 0.3009617450006772,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "1089-134686-0005",
+          "raw_text": "the music came nearer and he recalled the words the words of shelley's fragment upon the moon wandering companionless pale for weariness",
+          "wer_before": 0.0,
+          "wer_after": 0.36363636363636365,
+          "reference": "the music came nearer and he recalled the words the words of shelley's fragment upon the moon wandering companionless pale for weariness"
+        },
+        {
+          "text": "Now what have you to say, Cynthia Sprague?",
+          "time_s": 0.14986751599644776,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "6930-76324-0007",
+          "raw_text": "now what have you to say, cynthia sprague?",
+          "wer_before": 0.25,
+          "wer_after": 0.25,
+          "reference": "now what have you to say cynthia sprague"
+        },
+        {
+          "text": "I was to be taken away and carried to England or elsewhere or drowned upon the voyage, it mattered not which.",
+          "time_s": 0.2313531309919199,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "8455-210777-0044",
+          "raw_text": "i was to be taken away and carried to england or elsewhere or drowned upon the voyage it mattered not which.",
+          "wer_before": 0.047619047619047616,
+          "wer_after": 0.09523809523809523,
+          "reference": "i was to be taken away and carried to england or elsewhere or drowned upon the voyage it mattered not which"
+        },
+        {
+          "text": "The wearers of uniforms and liveries may be roughly divided into two classes: the free and the servile, or the noble and the ignoble",
+          "time_s": 0.2822863619949203,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "3570-5694-0018",
+          "raw_text": "the wearers of uniforms and liveries may be roughly divided into two classes the free and the servile or the noble and the ignoble.",
+          "wer_before": 0.041666666666666664,
+          "wer_after": 0.08333333333333333,
+          "reference": "the wearers of uniforms and liveries may be roughly divided into two classes the free and the servile or the noble and the ignoble"
+        },
+        {
+          "text": "This set of rooms is quite the oldest in the college, and it is not unusual for visitors to go over them.",
+          "time_s": 0.23049524099042173,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "1580-141084-0002",
+          "raw_text": "this set of rooms is quite the oldest in the college and it is not unusual for visitors to go over them.",
+          "wer_before": 0.045454545454545456,
+          "wer_after": 0.09090909090909091,
+          "reference": "this set of rooms is quite the oldest in the college and it is not unusual for visitors to go over them"
+        },
+        {
+          "text": "But the dusk deepening in the schoolroom covered over his thoughts the bell rang",
+          "time_s": 0.1866486660001101,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "1089-134686-0015",
+          "raw_text": "but the dusk deepening in the schoolroom covered over his thoughts the bell rang",
+          "wer_before": 0.0,
+          "wer_after": 0.0,
+          "reference": "but the dusk deepening in the schoolroom covered over his thoughts the bell rang"
+        },
+        {
+          "text": "It is enough, said George Gamewell, sharply, as he turned upon the crowd.",
+          "time_s": 0.20282045000931248,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "61-70968-0019",
+          "raw_text": "it is enough said george gamewell sharply as he turned upon the crowd.",
+          "wer_before": 0.15384615384615385,
+          "wer_after": 0.38461538461538464,
+          "reference": "it is enough said george gamewell sharply and he turned upon the crowd"
+        },
+        {
+          "text": "The news circulated with the rapidity of lightning during its progress. It kindled every variety of coquetry, desire, and wild ambition.",
+          "time_s": 0.2515207329997793,
+          "model": "gemma-4-e2b-it",
+          "sample_id": "7127-75946-0012",
+          "raw_text": "the news circulated with the rapidity of lightning during its progress it kindled every variety of coquetry desire and wild ambition.",
+          "wer_before": 0.047619047619047616,
+          "wer_after": 0.19047619047619047,
+          "reference": "the news circulated with the rapidity of lightning during its progress it kindled every variety of coquetry desire and wild ambition"
+        }
+      ]
+    }
+  }
+}
